@@ -1,0 +1,4 @@
+0 Ok
+1 Fist
+2 Thumbs up
+3 No Gesture
